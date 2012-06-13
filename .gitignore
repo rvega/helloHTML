@@ -3,3 +3,4 @@
 /helloHTML
 /Makefile
 /moc_HTMLWindow.cpp
+/qrc_htmlResources.cpp

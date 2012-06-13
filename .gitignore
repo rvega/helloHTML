@@ -1,0 +1,5 @@
+*.swp
+*.o
+/helloHTML
+/Makefile
+/moc_HTMLWindow.cpp
